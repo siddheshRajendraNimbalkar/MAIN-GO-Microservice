@@ -1,0 +1,12 @@
+
+
+
+services:
+  account:
+  product:
+  order:
+  graphql:
+
+  account_DB:
+  product_DB:
+  order_DB:
